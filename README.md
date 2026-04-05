@@ -47,13 +47,20 @@ Python, OpenCV, Scikit-learn, NumPy, Pandas
 ## 📸 Sample Results
 
 ### Dataset Samples
-(Add image from Fig 1)
+![Dataset](results/dataset_samples.png)
 
 ### HSV Feature Extraction
-(Add image from Fig 3)
+![HSV](results/hsv_output.png)
 
-### Model Predictions
-(Add image from Fig 7)
+### Model Prediction
+### Leaf rust
+![Prediction](results/prediction1.png)
+
+### Healthy 
+![Prediction](results/prediction2.png)
+
+### Stem rust
+![Prediction](results/prediction3.png)
 
 ## 📦 Note
 Due to size limitations, dataset and model files are not included in this repository.
