@@ -9,6 +9,8 @@ This project presents a machine learning-based approach for detecting leaf and s
 **Conference:** Springer – Intelligent Computing and Technologies (2026)  
 🔗 [Read Paper (DOI)](https://doi.org/10.1007/978-3-032-10250-8_33)
 
+## Note : The published paper is also uploaded above.
+
 ## 🚀 Overview
 This system combines aerial and ground-level imagery to improve disease detection accuracy in agricultural environments.
 
