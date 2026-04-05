@@ -7,7 +7,7 @@ This project presents a machine learning-based approach for detecting leaf and s
 ## 📄 Publication
 **Title:** Integrating Aerial and Ground-Level Image Data for Leaf and Stem Rust Detection  
 **Conference:** Springer – Intelligent Computing and Technologies (2026)  
-🔗 [Read Paper (DOI)]([ADD_DOI_LINK_HERE](https://doi.org/10.1007/978-3-032-10250-8_33))
+🔗 [Read Paper (DOI)](https://doi.org/10.1007/978-3-032-10250-8_33)
 
 ## 🚀 Overview
 This system combines aerial and ground-level imagery to improve disease detection accuracy in agricultural environments.
